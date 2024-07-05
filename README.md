@@ -1,16 +1,15 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL 💙
 
-<!--
-**GABRIELPDJ/GABRIELPDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Gabriel Henrique de Lemos
 
-Here are some ideas to get you started:
+- estou estudando na alura:
+- estou me desenvolvendo na linguagem JavaScript
+- ultilizo essa espaço para minha organização e compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## voçê entra em contato comigo 📫
+
+  gabriel.henrique.lemos@escola.pr.gov.br
+  
+  Intagram: @gabriel.pdj_36
+
+![](https://media1.tenor.com/m/3D1C5I4742sAAAAC/cristiano-ronaldo-ronaldo.gif)
