@@ -2,9 +2,9 @@
 
 Meu Nome é Gabriel Henrique de Lemos
 
-- estou estudando na alura:
-- estou me desenvolvendo na linguagem JavaScript
-- ultilizo essa espaço para minha organização e compartilhar meus projetos desenvolvidos
+- Estou estudando na 
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo essa espaço para minha organização e compartilhar meus projetos desenvolvidos
 
   ## voçê entra em contato comigo 📫
 
