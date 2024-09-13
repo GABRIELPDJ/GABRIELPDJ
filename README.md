@@ -1,8 +1,8 @@
-## BOAS VINDAS AO MEU PERFIL 💙
+## SEJA BEM VINDOS AO MEU PERFIL 💙
 
-Meu Nome é Gabriel Henrique de Lemos
+Nome: Gabriel Henrique de Lemos
 
-- Estou estudando na 
+- Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultilizo essa espaço para minha organização e compartilhar meus projetos desenvolvidos
 
@@ -10,6 +10,6 @@ Meu Nome é Gabriel Henrique de Lemos
 
   gabriel.henrique.lemos@escola.pr.gov.br
   
-  Intagram: @gabriel.pdj_36
+  Intagram: @gabriel.pda_36
 
 ![](https://media1.tenor.com/m/3D1C5I4742sAAAAC/cristiano-ronaldo-ronaldo.gif)
